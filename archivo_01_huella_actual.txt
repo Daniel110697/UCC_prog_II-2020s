@@ -1,0 +1,2 @@
+Hash SHA256 del archivo archivo_01.txt:
+d5 1c b4 a8 9f 80 cc 7e cc 85 1a 41 43 fb 26 e0 9e 40 1e dd 6e 65 13 35 0c 15 45 4d 64 37 03 16
