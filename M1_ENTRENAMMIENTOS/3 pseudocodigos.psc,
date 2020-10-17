@@ -1,0 +1,20 @@
+Proceso pseudocodigo_3
+	
+	Definir a, b Como Entero
+	definir s Como Logico
+	
+	a <- 1;
+	b <- 0;
+	
+	Escribir  "¿Napoleon nacio en francia? (0) Falso, (1) Verdadero: ", a;
+	Leer a; 
+	
+	Escribir  "¿La torre eiffel esta en australia? (0) Falso, (1) Verdadero: ", b;
+	Leer  b;
+	
+	s <- a > b;
+	
+	Escribir  "El valor final de la operacion es: ", s;
+	
+FinProceso
+
